@@ -1,0 +1,8 @@
+# Power_BI_First_Project
+The dataset includes a survey responses from 630 participant, I analyzed the data using Power BI and built an insightful dashboard.
+On average, the respondents in the survey were 30 years old.
+Python is the most popular programming language among the respondents, followed by R.
+Data scientists have the highest average salary among the various data jobs, with an average salary of $94k. 
+Data Engineers and Data Architects follow with average salaries of $65k and $64k, respectively.
+The data visualization indicates that the respondents are generally not happy with their current salaries.
+While more than 50% of the participants reported being happy with their work/life balance.
